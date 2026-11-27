@@ -6,4 +6,4 @@ DataFrame with results is created.
 to do
 
   - [ ] plotting
-  - [ ] powerpoint
+  - [ ] powerpoint (hab ne Präsi auf Canva gestartet, kann man dann als powerpoint runter laden: https://canva.link/tthv56ofah8cjc5 (how do you like this?)
